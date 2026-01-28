@@ -1,0 +1,39 @@
+{
+    "name": "urban-glow",
+    "displayName": "Urban Glow",
+    "description": "A vibrant, city lights colour palette for code and UI.",
+    "icon": "images/spellIcon.png",
+    "version": "1.0.0",
+    "publisher": "Ranfurly",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/meteora-digital/urban-glow"
+    },
+    "keywords": [
+        "urban glow",
+        "dark theme",
+        "urban glow theme",
+        "neon",
+        "lights",
+        "night",
+        "dark theme",
+        "vibrant",
+        "vs code theme",
+        "ranfurly"
+    ],
+    "engines": {
+        "vscode": "^1.56.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Urban Glow",
+                "uiTheme": "vs-dark",
+                "path": "./themes/urban-glow-theme.json"
+            }
+        ]
+    }
+}
