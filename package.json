@@ -3,11 +3,11 @@
     "displayName": "Urban Glow",
     "description": "A vibrant, city lights colour palette for code and UI.",
     "icon": "images/spellIcon.png",
-    "version": "1.0.3",
+    "version": "1.0.4",
     "publisher": "Ranfurly",
     "repository": {
         "type": "git",
-        "url": "https://github.com/meteora-digital/urban-glow"
+        "url": "https://github.com/ranfurIy/urban-glow"
     },
     "keywords": [
         "urban glow",
